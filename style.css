@@ -1,0 +1,20 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+.menu-principal {
+    width: 100%;
+    background-color: black ;
+    height: 50px;
+}
+css {
+    margin: 0 auto;
+    width: 980px;
+    position: relative;
+}
+
+.logo img {
+    margin: 0 auto;
+    width: 90px;
+    position: relative;
+}
